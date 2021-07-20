@@ -18,7 +18,7 @@ This is the second optional challenge of the Rocketseat Ignite course.
 </p>
 
 <p align="center">
-  <a><img src="./screenshots/cart.png" alt="Add new plate"></a>
+  <a><img src="./screenshots/add-new-plate.png" alt="Add new plate"></a>
 </p>
 
 ## 🛠️ Stack

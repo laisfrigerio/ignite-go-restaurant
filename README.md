@@ -6,8 +6,15 @@ This is the second optional challenge of the Rocketseat Ignite course.
 
 🚀 In this challenge, we had to added Typescript and transform all Class Component (CF) into Functional Components (FC)
 
+- Tasks:
+  - List of plates;
+  - Add new plate;
+  - Edit plate;
+  - Remove plate;
+  - Mark plate as unavailable
+
 <p align="center">
-  <a><img src="./screenshots/home.png" alt="List of available plates"></a>
+  <a><img src="./screenshots/home.png" alt="List of plates"></a>
 </p>
 
 <p align="center">

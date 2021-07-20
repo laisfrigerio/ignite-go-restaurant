@@ -41,4 +41,4 @@ export const Form = styled(Unform)`
       margin: 0 auto;
     }
   }
-`;
+`

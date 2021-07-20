@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-bottom: 20px">
   <a><img src="./src/assets/logo.svg" alt="Go Restaurant: Italian food"></a>
 </p>
 

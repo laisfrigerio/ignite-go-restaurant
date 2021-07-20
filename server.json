@@ -25,12 +25,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "",
-      "name": "Modal Italiana",
-      "price": "35.90",
-      "description": "Prato tipico da Itália",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste edit",
+      "price": "21.90",
+      "description": "Teste descrição edit",
       "available": true,
-      "id": 4
+      "id": 5
     }
   ]
 }
